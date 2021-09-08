@@ -171,7 +171,7 @@ The incidents list would look like.
 
 <img src="images/image-00017.png">
 
-## 5. Resolve Incidents
+## 5. Close Incidents
 
 Close incidents using `demo1` user.
 
